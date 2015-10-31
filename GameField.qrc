@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/GameField">
+        <file>textures/Gamefield/ramka.png</file>
+        <file>textures/Gamefield/statusbar.png</file>
+    </qresource>
+    <qresource prefix="/Buttons">
+        <file>textures/Gamefield/Buttons/Pause/pause.png</file>
+        <file>textures/Gamefield/Buttons/Pause/pause2.png</file>
+    </qresource>
+    <qresource prefix="/Field">
+        <file>textures/Gamefield/Game/bub.jpg</file>
+        <file>textures/Gamefield/Game/obs.jpg</file>
+        <file>textures/Gamefield/Game/tank.jpg</file>
+        <file>textures/Gamefield/Game/field.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>textures/Menu/background.jpg</file>
+        <file>textures/Menu/info.png</file>
+    </qresource>
+    <qresource prefix="/Buttons">
+        <file>textures/Menu/Buttons/Option/option.png</file>
+        <file>textures/Menu/Buttons/Option/option2.png</file>
+        <file>textures/Menu/Buttons/About/about.png</file>
+        <file>textures/Menu/Buttons/About/about2.png</file>
+        <file>textures/Menu/Buttons/Back/back.png</file>
+        <file>textures/Menu/Buttons/Back/back2.png</file>
+        <file>textures/Menu/Buttons/Game/Game.png</file>
+        <file>textures/Menu/Buttons/Game/Game2.png</file>
+        <file>textures/Menu/Buttons/Exit/exit.png</file>
+        <file>textures/Menu/Buttons/Exit/exit2.png</file>
+        <file>textures/Menu/Buttons/Continue/continue.png</file>
+        <file>textures/Menu/Buttons/Continue/continue2.png</file>
+    </qresource>
+</RCC>
